@@ -2,9 +2,7 @@
 Quick game i made to practice JavaScript
 Goal is to reach 20 points by rolling dice. You add the points on a dice until you decide to hold. Every time a 1 is rolled, your points held are reset and it goes to the next person's turn.
 
-
-
-
+https://user-images.githubusercontent.com/72363970/143953633-18131053-5d9d-4a3d-a642-2ce0d0702f95.mp4
 
 Made as part of JavaScript course
 
