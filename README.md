@@ -25,9 +25,11 @@ You can keep rolling the dice and increasing your current points
 Your turn only ends when you decide to hold your points, or you roll a 1 which removes all your current points
 
 <!-- Features -->
-## Features 🛠 ##
+## Tools  🛠 ##
 
 Made in JavaScript, HTML, and CSS using Visual Studio
+
+Features:
 
 ☑ Very basic DOM manipulation
 
