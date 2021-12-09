@@ -27,6 +27,8 @@ Your turn only ends when you decide to hold your points, or you roll a 1 which r
 <!-- Features -->
 ## Features 🛠 ##
 
+Made in JavaScript, HTML, and CSS using Visual Studio
+
 ☑ Very basic DOM manipulation
 
 ☑ Dynamic picture manipulation
